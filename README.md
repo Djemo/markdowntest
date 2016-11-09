@@ -4,5 +4,5 @@ Standard task list
 - [ ] Task 1
 - [ ] Task 2
 
-Task with no description
-- [ ] [ ]
+More than one i a row
+- [ ] One - [ ] Two
